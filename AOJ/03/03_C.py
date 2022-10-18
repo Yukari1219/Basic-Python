@@ -6,3 +6,4 @@ while True:
         print(y, x)
     else:
         print(x, y)
+        
